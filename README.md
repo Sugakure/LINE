@@ -6,7 +6,7 @@ LINE
 - Documentation : [http://carpedm20.github.io/line/](http://carpedm20.github.io/line/)
 - Developer Mailing List: [Google Group](https://groups.google.com/forum/#!forum/line-python-developer)
 
-*May the LINE be with you...*
+This is fork from carpedm20 LINE lib and modificated by [Me](https://github.com/anysz/LINE/)
 
 
 Update
